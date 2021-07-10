@@ -1,7 +1,10 @@
 .header {
     color: white;
     height: 100px;
-    background-color: #3f3160;
+    background-image: linear-gradient(to left, rgb(95, 78, 143), rgb(35, 110, 139)); 
+    /* background-image: linear-gradient(to left, rgb(95, 178, 211), rgb(14, 81, 107)); */
+    /* background-image: linear-gradient(to right, rgba(141, 136, 198, 1), rgba(66, 64, 87, 1));
+ */
 }
 
 .headerh1 {

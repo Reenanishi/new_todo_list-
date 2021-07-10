@@ -71,7 +71,7 @@ class LayoutComponent extends React.Component {
 
             <div className="layoutbody">
                 <div className="App">
-                    <div b><h1> Pending tasks</h1></div>
+                    <div b><h1> Pending Tasks</h1></div>
                     <header>
                         <form id="to-do-form" onSubmit={this.addItem}>
                             <input type="text" placeholder="Enter task" value={this.state.currentItem.text} onChange={this.handleInput}></input>

@@ -7,7 +7,7 @@ class FooterComponent extends React.Component {
   {
     return (
         <div class="footermain">
-        <p class="allrighttext"> All rights reserved @reenanishi 2021 </p>
+        <p class="allrighttext"> All rights reserved @reenanishi 2021&nbsp;&nbsp;&nbsp;&nbsp;      </p>
       </div>
     )
   }
