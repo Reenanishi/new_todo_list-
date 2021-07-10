@@ -1,15 +1,18 @@
-body{
-  background-color: #9266ff;
+
+.layoutbody {
+  background-color: #FAF9F6;
+  display: flex;
+  align-content: center;
 }
 
-.App{
+.App {
   background-color: #3f3160;
   min-height:600px;
   width: 500px;
   margin: 40px auto;
 }
 h1{
-  color: #fff;
+  color: white;
   text-align: center;
   font-style: oblique;
   
